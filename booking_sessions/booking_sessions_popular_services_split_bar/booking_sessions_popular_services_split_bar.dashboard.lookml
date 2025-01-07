@@ -1,0 +1,2 @@
+- dashboard: booking_sessions_popular_services_split_bar
+  extends: [booking_sessions_popular_services_split_bar_extension]

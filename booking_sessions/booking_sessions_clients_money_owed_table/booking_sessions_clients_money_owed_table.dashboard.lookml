@@ -1,0 +1,2 @@
+- dashboard: booking_sessions_clients_money_owed_table
+  extends: [booking_sessions_clients_money_owed_table_extension]

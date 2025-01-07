@@ -1,0 +1,24 @@
+- dashboard: conversion_rest_rate_over_time_bar_chart_2_axis_advanced
+  extends:  [conversion_rest_rate_over_time_bar_chart_2_axis_extension, conversion_rest_filters_more]
+  elements:
+  - name: "conversion_rest_rate_over_time_bar_chart_2_axis"
+    listen:
+      session_user_aq: traffic.session_user_aquisition
+      referrer_source: traffic.referrer_source
+      ref_domain: traffic.referrer_domain
+      ref_url: traffic.ref_url
+      utm_source: traffic.campaign_source
+      utm_medium: traffic.medium
+      utm_campaign: traffic.campaign
+      utm_content: traffic.content
+      utm_term: traffic.term
+      multichannelcampaign: traffic.multichannelcampaign
+      country_name: traffic.country_name
+      region: traffic.region
+      city: traffic.city
+      postal_code: traffic.postal_code
+      device_type: traffic.device_type
+      browser_family: traffic.browser_family
+      browser_version: traffic.browser_version
+      os_name: traffic.os_name
+      visitor_type: traffic.visitor_type_orig

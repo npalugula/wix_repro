@@ -1,0 +1,2 @@
+- dashboard: marketing_seo_traffic_by_referring_sites_comp_bar
+  extends : [marketing_seo_traffic_by_referring_sites_comp_bar_extension]

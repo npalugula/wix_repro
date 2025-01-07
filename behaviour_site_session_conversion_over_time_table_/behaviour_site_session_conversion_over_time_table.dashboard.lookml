@@ -1,0 +1,2 @@
+- dashboard: behaviour_site_session_conversion_over_time_table
+  extends : [behaviour_site_session_conversion_over_time_table_extension]

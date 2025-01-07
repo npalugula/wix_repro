@@ -1,0 +1,2 @@
+- dashboard: conversion_store_rate_by_product_bar_chart_2_axis
+  extends:  [conversion_store_rate_by_product_bar_chart_2_axis_extension]

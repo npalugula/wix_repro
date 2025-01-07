@@ -1,0 +1,2 @@
+- dashboard: marketing_seo_conversion_by_referring_site_table
+  extends : [marketing_seo_conversion_by_referring_site_table_extension]

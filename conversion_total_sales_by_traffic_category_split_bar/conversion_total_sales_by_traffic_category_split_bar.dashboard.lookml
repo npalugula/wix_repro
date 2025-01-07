@@ -1,0 +1,2 @@
+- dashboard: conversion_total_sales_by_traffic_category_split_bar
+  extends:  [conversion_total_sales_by_traffic_category_split_bar_extension]
